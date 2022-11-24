@@ -71,6 +71,18 @@
    font-style: normal;
 }
 @font-face {
+   font-family: "Montserrat ExtraBold";
+   src: url("fonts/Montserrat ExtraBold.woff") format("woff"), url("fonts/Montserrat ExtraBold.eot") format("embedded-opentype"), url("fonts/Montserrat ExtraBold.ttf") format("truetype"), url("fonts/Montserrat ExtraBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat ExtraBold";
+   src: url("fonts/Montserrat ExtraBold Italic.woff") format("woff"), url("fonts/Montserrat ExtraBold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat ExtraBold Italic.ttf") format("truetype"), url("fonts/Montserrat ExtraBold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
    font-family: "Montserrat Black";
    src: url("fonts/Montserrat Black.woff") format("woff"), url("fonts/Montserrat Black.eot") format("embedded-opentype"), url("fonts/Montserrat Black.ttf") format("truetype"), url("fonts/Montserrat Black.svg") format("svg");
    font-weight: normal;
