@@ -1,7 +1,6 @@
 {
  "name": "Terrante Departamentos",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
  "icons": [
   {
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
